@@ -1,4 +1,4 @@
-It would be nice to have some input from the open source community, particularly the FreeBSD sector, to see if these features are something that are viable in the webapp. The goal is to create an app that helps open source companies match people's skills with their immediate and long-term needs.
+It would be nice to have some input from the open source community, particularly the FreeBSD sector, to see if these features are \n something that are viable in the webapp. The goal is to create an app that helps open source companies match people's skills with their immediate and long-term needs.
 
 1. Have the option in the app to connect with LinkedIn's Reputation APIs
 2. SMS module that returns matching jobs/needs based on user's skills as texted (maybe have predefined commands?)
